@@ -34,6 +34,12 @@ traffic_forecasting/
 
 ---
 
+## Demo videos
+
+Frontend demo video : https://drive.google.com/file/d/1PQIFAaaqWicFmzj6hh0dtnv1XZI9yfom/view?usp=sharing
+
+Backend demo video : https://drive.google.com/file/d/1gh4x7T4NvmhsAd-WTu6HkKayZRghIBqn/view?usp=sharing
+
 ## 📦 Dataset Explanation
 
 Synthetic traffic dataset generated for **5 routes × 90 days × 24 hours = ~10,800 records/route**.
